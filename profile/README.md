@@ -91,7 +91,7 @@ Yes, the game offers offline functionality for single-player modes.
 
 4. Are there regular updates?
 ## Certifications
-[View Google Certification](googledb37bcbb265a988f.html)
+[View Google Certification](googlead5a8186aeb438af.html)
 
 Absolutely! The developers release frequent updates to add new features, fix bugs, and introduce fresh content.
 
